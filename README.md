@@ -1,2 +1,2 @@
 # azure-data-factory-ELT
-Working with Azure Data Factory ELT
+Q&A regarding working within Azure Data Factory ELT scenario
